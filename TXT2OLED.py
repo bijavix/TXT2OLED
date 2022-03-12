@@ -1,6 +1,6 @@
 # bijavix Q1 2022 - Text to arduino OLED array
 
-maxLenght = 22 # Maximum number of characters that the display can hold in a single line
+maxLenght = 21 # Maximum number of characters that the display can hold in a single line 
 columnLenght = 3 # How many number of columns to generate before next line (only affects on how the code looks)
 
 #The chunk of data YOU want to convert. You can put it directly here or read it from a text file:
